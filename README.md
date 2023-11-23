@@ -1,6 +1,6 @@
 This fork is part of the Master Thesis of Thomas Renström at Lund University. 
-Changes have been made to master branch and one branch unique to this fork.
-mudthomas-full-representability-patch is the current main focus of the thesis. 
+
+The branch mudthomas-full-representability-patch is the current main focus of the thesis. It is not synced with master, as the master might be part of an ongoing test round.
 
 About
 -----------
