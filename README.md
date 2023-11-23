@@ -1,3 +1,7 @@
+This fork is part of the Master Thesis of Thomas Renström at Lund University. 
+Changes have been made to master branch and one branch unique to this fork.
+
+
 About
 -----------
 
