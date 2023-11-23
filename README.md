@@ -1,6 +1,10 @@
-This fork is part of the Master Thesis of Thomas Renström at Lund University. 
+This is a fork of the Modelon code for PyFMI.
 
-The branch mudthomas-full-representability-patch is the current main focus of the thesis. It is not synced with master, as the master might be part of an ongoing test round.
+This fork and its branches are part of the Master Thesis of Thomas Renström at Lund University. 
+
+The branch mudthomas-full-representability-patch is the current main focus of the thesis. It is not synced with master, as the master might be part of an ongoing test round.'
+
+What follows below is the original README from [Modelon](https://github.com/modelon-community/PyFMI).
 
 About
 -----------
